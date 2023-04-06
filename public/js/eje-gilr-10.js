@@ -24,7 +24,7 @@ function restaNumeros(){
     resultado.innerHTML="Resultado: "+resta;
 }
 
-function multplicaNumeros(){
+function multiplicaNumeros(){
     //DECLARACION LET Y CONST
     const n1 = parseInt(document.getElementById('ent1').value);
     const n2 = parseInt(document.getElementById('ent2').value);
